@@ -1,5 +1,5 @@
 def python():
-  print(" python programming language")
+  print(" python is the programming language")
 
 //python()
 
